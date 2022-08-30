@@ -21,9 +21,7 @@ namespace Ejemplo___Aula
             };
 
 
-
             Aula aula1 = new Aula("2D", laboII, profesor, 20);
-
             Aula aula2 = new Aula("2D", progII, profesor, alumnos2D);
 
 
